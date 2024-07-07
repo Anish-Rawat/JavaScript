@@ -1,0 +1,2 @@
+1. Create a const object called "product" to store information title , rating , price , offer;
+2. Create a const object called "profile" to store information userName , bio, followers , following , post, isFollow;
