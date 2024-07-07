@@ -1,4 +1,3 @@
-// First Code
 const product = {
     title : "Ball Pen",
     price : 599,

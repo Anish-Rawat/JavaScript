@@ -1,4 +1,3 @@
-// Second Code
 const profile = {
     userName : "Anish Rawat",
     bio : "Software Engineer",
